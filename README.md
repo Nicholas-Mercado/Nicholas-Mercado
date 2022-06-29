@@ -45,10 +45,7 @@ ___
 <br>
 <br>
 
-<img src="assets/python.png" width=70/>  
-<img src="assets/js.png" width=70/>
-<img src="assets/html-5.png" width=70/>  
-<img src="assets/css.png" width=70/>
+<img src="assets/python.png" width=70/>&nbsp;&nbsp;<img src="assets/js.png" width=70/>&nbsp;&nbsp;<img src="assets/html-5.png" width=70/>&nbsp;&nbsp;<img src="assets/css.png" width=70/>
 
 <br>
 <br>
@@ -58,7 +55,7 @@ ___
 ___
 
 <br>
-<br>
+
 
 - ### Tech Spotlight
   
