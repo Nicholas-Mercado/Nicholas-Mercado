@@ -59,7 +59,7 @@ ___
 
 - ### Tech Spotlight
   
-  - A Web Scraper targeting Indeed.com built with Python. We wanted a tool that would grab the frequency at which technology terminology pops up. We’ve plotted the term occurrence data on a Jupyter notebook.
+  - Tech Spotlight scrapes Indeed.com and returns frequency of technologies found in all postings scraped. It uses the search queries,job title, location, date of post and returns a file of most popular technologies. We plotted our findings in a Jupyter Notebook.
   - [Repo](https://github.com/regex-rejects/tech-spotlight)
   - [Jupyter Notebook](https://www.kaggle.com/code/edenbrekke/tech-spotlight-indeed-data-18may2022/notebook)
   
