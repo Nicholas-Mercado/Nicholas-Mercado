@@ -25,6 +25,13 @@ Welcome to my GitHub
 <br>
 <br>
 
+<h3> What I am currently working on</h3>
+
+
+
+___
+<br>
+
 <h3> A little about me</h3>
 
 ___
@@ -68,3 +75,9 @@ ___
   - A task list application that allows a user to create tasks,set a due date, and add an accountability partner. If that task is not completed by the due date a text message is sent to your accountability partner. This application uses a next.js frontend and a Django backend with an ElephantSQL database.
   - [Front End Repo](https://github.com/TheG0ATS/do-or-doom-fe)
   - [Back End Repo](https://github.com/TheG0ATS/do-or-doom-api)
+  
+
+- ### Animal Racer
+
+  - Animal Racer is a web-based trivia game built in JavaScript. Each turn has a new animal trivia question and if you answer correctly, you move closer to the finish line. Your opponent, the computer, races you around the track and has a probability of answering correctly.
+  - [Repo](https://github.com/The-Go-Gitters/trivia-race)
