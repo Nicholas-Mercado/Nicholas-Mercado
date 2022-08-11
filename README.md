@@ -23,7 +23,6 @@ Welcome to my GitHub
 <h3>I am a Full Stack Software Developer excited about creating websites and applications that help people become more productive and efficient in their endeavors. My passion is to make interfaces more intuitive for all users and create tools that allow people to build a world that works better for everyone.</h3>
 
 <br>
-<br>
 
 <!-- <h3> What I am currently working on</h3> -->
 
@@ -43,6 +42,19 @@ ___
 <br>
 <br>
 
+<h3> Coding Playlist I love </h3>
+
+---
+<ul dir="auto">
+<li><a href="https://open.spotify.com/playlist/7GmGc99r7Qjdw4763y95V2?si=eb4080ccbe014f2c" rel="nofollow">Smiths</a></li>
+<li><a href="https://open.spotify.com/playlist/5Jm8YoUgGWBPzSqMMXVY6i?si=7f18359f7a324092" rel="nofollow">Castle Party</a></li>
+<li><a href="https://open.spotify.com/playlist/7o393327DKW7sVfNDfQlgi?si=7e00e1cbda064763" rel="nofollow">Change it up Vol.2</a></li>
+
+</ul>
+
+<br>
+
+<br>
 <h3>Languages</h3>
 
 ___
