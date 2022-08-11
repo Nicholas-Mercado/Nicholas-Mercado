@@ -25,11 +25,9 @@ Welcome to my GitHub
 <br>
 <br>
 
-<h3> What I am currently working on</h3>
+<!-- <h3> What I am currently working on</h3> -->
 
-
-
-___
+<!-- ___ -->
 <br>
 
 <h3> A little about me</h3>
