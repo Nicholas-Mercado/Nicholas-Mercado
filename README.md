@@ -73,7 +73,11 @@ ___
 
 <br>
 
+- ### D&D Bot
 
+  - A Discord bot that retrieves and displays random facts about Dungeons and Dragons.
+  - [Repo](https://github.com/Nicholas-Mercado/dnd-bot)
+  
 - ### Tech Spotlight
   
   - Tech Spotlight scrapes Indeed.com and returns frequency of technologies found in all postings scraped. It uses the search queries,job title, location, date of post and returns a file of most popular technologies. We plotted our findings in a Jupyter Notebook.
@@ -91,3 +95,4 @@ ___
 
   - Animal Racer is a web-based trivia game built in JavaScript. Each turn has a new animal trivia question and if you answer correctly, you move closer to the finish line. Your opponent, the computer, races you around the track and has a probability of answering correctly.
   - [Repo](https://github.com/The-Go-Gitters/trivia-race)
+
