@@ -20,7 +20,7 @@ Welcome to my GitHub
 </h1>
 
 
-<h3>I am a Full Stack Software Developer excited about creating websites and applications that help people become more productive and efficient in their endeavors. My passion is to make interfaces more intuitive for all users and create tools that allow people to build a world that works better for everyone.</h3>
+<h3>Attentive and task-driven professional passionate about a career in the technology industry. Seeking to help others navigate computers, as well as grow and expand my own skills and knowledge of the computing world. </h3>
 
 <br>
 
